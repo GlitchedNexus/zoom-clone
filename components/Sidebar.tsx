@@ -35,7 +35,6 @@ const Sidebar = () => {
                         <p className='text-lg font-semibold max-lg:hidden'>
                             {link.label}
                         </p>
-                        {link.label}
                     </Link>
                 )
             })}
