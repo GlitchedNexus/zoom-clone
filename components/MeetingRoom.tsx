@@ -2,7 +2,7 @@ import React from 'react'
 
 const MeetingRoom = () => {
   return (
-    <div>MeetingRoom</div>
+    <section className='relative h-screen'>MeetingRoom</section>
   )
 }
 
